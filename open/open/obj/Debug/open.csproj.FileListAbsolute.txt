@@ -1,0 +1,5 @@
+c:\users\husha\documents\visual studio 2015\Projects\open\open\bin\Debug\open.dll
+c:\users\husha\documents\visual studio 2015\Projects\open\open\bin\Debug\open.pdb
+c:\users\husha\documents\visual studio 2015\Projects\open\open\obj\Debug\open.csprojResolveAssemblyReference.cache
+c:\users\husha\documents\visual studio 2015\Projects\open\open\obj\Debug\open.dll
+c:\users\husha\documents\visual studio 2015\Projects\open\open\obj\Debug\open.pdb
