@@ -1,0 +1,5 @@
+C:\Users\Husha\Documents\Visual Studio 2015\Projects\clos\clos\bin\Debug\clos.dll
+C:\Users\Husha\Documents\Visual Studio 2015\Projects\clos\clos\bin\Debug\clos.pdb
+C:\Users\Husha\Documents\Visual Studio 2015\Projects\clos\clos\obj\Debug\clos.csprojResolveAssemblyReference.cache
+C:\Users\Husha\Documents\Visual Studio 2015\Projects\clos\clos\obj\Debug\clos.dll
+C:\Users\Husha\Documents\Visual Studio 2015\Projects\clos\clos\obj\Debug\clos.pdb
